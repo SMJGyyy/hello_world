@@ -1,2 +1,6 @@
 # hello_world
-Just a new repository
+
+Hi Humans!
+
+Here is a new guy.
+Just for fun.
